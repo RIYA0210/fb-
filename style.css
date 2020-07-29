@@ -1,0 +1,50 @@
+body{
+
+
+}
+header {
+    background: #415e9b;
+    height: 82px;
+    border-bottom: 1px solid #133783;
+
+}
+.control-align
+{
+    width: 980px;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.img-control
+{
+    float: left;
+}
+.img-control img
+{
+    width: 220px;
+    height: 50px;
+    margin-top: 25px;
+}
+.login
+{
+   float: right;
+   font-family: Arial;
+   font-size: 13px;
+   color: white;
+   margin-top: 25px;
+}
+.inputtxt
+{
+    width: 120px;
+    height: 25px;
+}
+.btn
+{
+    background-color: #2980b9;
+    color: white;
+    font-family: Arial;
+    padding: 5px,5px,5px;
+    border: none;
+    border-radius: 3px;
+    margin-left: 5px;
+}
